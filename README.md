@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Waqar+%F0%9F%91%8B;AI+%26+Deep+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+Full-Stack+AI;Turning+Ideas+Into+Trained+Models" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1000&height=60&lines=Hey%2C+I'm+Waqar+%F0%9F%91%8B;AI+%26+Deep+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+Full-Stack+AI;Turning+Ideas+Into+Trained+Models" alt="Typing SVG" />
 
 <br>
 
@@ -45,11 +45,17 @@ I'm an **AI undergraduate** at **Bahria University Karachi**, deep into machine 
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&height=35&lines=Loading+repositories...;6+builds+%7C+0+bugs+(allegedly)" alt="Typing SVG" />
+
+<br><br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [Matrix](https://github.com/waqarazeem17/matrix)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=00FF41&center=false&vCenter=true&width=400&height=25&lines=scanning+for+threats...;endpoint+secured+%E2%9C%93" />
+
 Local-only AI endpoint monitor for Windows. Tracks file, network, USB, process & startup activity in real time, and scores executables with a **LightGBM** model trained on **EMBER**, learning your PC's normal behavior to flag anomalies.
 
 `Python` `LightGBM` `Cybersecurity`
@@ -58,6 +64,8 @@ Local-only AI endpoint monitor for Windows. Tracks file, network, USB, process &
 <td width="50%" valign="top">
 
 ### ⚖️ [LegalOS](https://github.com/waqarazeem17/LegalOS)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=00FF41&center=false&vCenter=true&width=400&height=25&lines=parsing+legal+docs...;automation+in+progress" />
+
 An AI-driven system exploring automation in the legal domain — built with a modern TypeScript stack.
 
 `TypeScript`
@@ -68,6 +76,8 @@ An AI-driven system exploring automation in the legal domain — built with a mo
 <td width="50%" valign="top">
 
 ### 🩺 [HealthAI](https://github.com/waqarazeem17/HealthAI)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=00FF41&center=false&vCenter=true&width=400&height=25&lines=analyzing+131+symptoms...;diagnosis+ready" />
+
 AI-powered medical assistant combining **ML-based disease prediction** across 131 symptoms with a conversational chatbot for preliminary health guidance. **FastAPI** backend, **React** frontend, generative AI dialogue layer.
 
 `Python` `TensorFlow` `FastAPI` `React`
@@ -76,6 +86,8 @@ AI-powered medical assistant combining **ML-based disease prediction** across 13
 <td width="50%" valign="top">
 
 ### 📰 [Fake News Detection](https://github.com/waqarazeem17/fake-news-detection)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=00FF41&center=false&vCenter=true&width=400&height=25&lines=fact-checking...;verdict%3A+real" />
+
 NLP pipeline for classifying real vs. fake news — text preprocessing, TF-IDF vectorization, **Logistic Regression** & **SVM** models, with a focus on interpretability.
 
 `Python` `scikit-learn` `NLP`
@@ -86,6 +98,8 @@ NLP pipeline for classifying real vs. fake news — text preprocessing, TF-IDF v
 <td width="50%" valign="top">
 
 ### 🎬 [FetchTube](https://github.com/waqarazeem17/fetchtube)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=00FF41&center=false&vCenter=true&width=400&height=25&lines=downloading...;100%25+on-device" />
+
 A SnapTube-style Android app for searching, previewing, downloading, and playing YouTube video/music — **100% on-device** via `yt-dlp` + `ffmpeg`. No backend, no account, no tracking.
 
 `Dart` `Flutter`
@@ -94,6 +108,8 @@ A SnapTube-style Android app for searching, previewing, downloading, and playing
 <td width="50%" valign="top">
 
 ### 👤 [Unsupervised Face Clustering](https://github.com/waqarazeem17/unsupervised-face-clustering-and-analysis)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=00FF41&center=false&vCenter=true&width=400&height=25&lines=clustering+faces...;no+labels+needed" />
+
 Clustering and analyzing faces without labeled data — exploring unsupervised learning techniques for visual grouping.
 
 `Jupyter Notebook`
