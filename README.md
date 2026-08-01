@@ -190,7 +190,7 @@ Clustering and analyzing faces without labeled data — exploring unsupervised l
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=waqarazeem17&theme=matrix&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=waqarazeem17&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
