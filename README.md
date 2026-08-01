@@ -22,13 +22,13 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00FF41,100:0d1117&height=4&width=1000" width="100%">
 
 <br>
 
 ## 🧠 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+<img align="right" width="300" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react&theme=dark&perline=2">
 
 I'm an **AI undergraduate** at **Bahria University Karachi**, deep into machine learning, deep learning, and NLP. I like building things end-to-end — from training a model in a notebook to shipping it behind a real API and a real UI.
 
@@ -190,7 +190,7 @@ Clustering and analyzing faces without labeled data — exploring unsupervised l
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=waqarazeem17&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=waqarazeem17&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 
 </div>
 
@@ -198,7 +198,7 @@ Clustering and analyzing faces without labeled data — exploring unsupervised l
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00FF41,100:0d1117&height=4&width=1000" width="100%">
 
 ### 📫 Let's Connect
 
