@@ -176,21 +176,11 @@ Clustering and analyzing faces without labeled data — exploring unsupervised l
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waqarazeem17&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://streak-stats.demolab.com/?user=waqarazeem17&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF" />
 
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqarazeem17&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🎯 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=waqarazeem17&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 
 </div>
 
